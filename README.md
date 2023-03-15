@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Technologies, TypeScript, Nextjs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LokeshPereiro & https://github.com/lpdraft]
+- 👨‍💻 All of my projects are available at [ https://github.com/LokeshPereiro & https://github.com/lpdraft ]
 
 - 💬 Ask me about **Reactjs, JavaScript, Express**
 
