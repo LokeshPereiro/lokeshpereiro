@@ -9,7 +9,7 @@
 </p>
 
 
-- 🔭 I’m currently working on [HTML-CSS-JavaScript_Apps](https://github.com/LokeshPereiro/HTML-CSS-JavaScript_Apps)
+
 
 - 🌱 I’m currently learning **MERN Stack Technologies, TypeScript, Nextjs**
 
