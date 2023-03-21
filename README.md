@@ -1,11 +1,11 @@
 <h1 align="center">Hi there👋, I'm Lokesh Pereiro</h1>
 <h6 align="center">A Full Stack Developer based in Galicia (Spain), mainly oriented and passionate about MERN Stack technologies such as MongoDB, Express, Reactjs and Nodejs. My goal is to build a career around the infinite possibilities that web technologies offer us to improve people's lives. I love learning, self-taught with a huge growth mindset, try to write clean code with best practices as possible</h6>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshpereiro&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshpereiro" /> </p>
+
 <p align="center">
 <img src="https://cdn.dribbble.com/users/44708/screenshots/2694410/media/c662e0e5b5f930b3df5aabb73ab30c57.gif" style="height:300px; width:900px;"  />
 </p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshpereiro&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshpereiro" /> </p>
 
 - 🔭 I’m currently working on [HTML-CSS-JavaScript_Apps](https://github.com/LokeshPereiro/HTML-CSS-JavaScript_Apps)
 
