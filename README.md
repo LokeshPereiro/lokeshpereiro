@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Lokesh Pereiro</h1>
 
-<h6 align="center">A Full Stack Developer based in Galicia (Spain), mainly oriented and passionate about MERN Stack technologies such as MongoDB, Express, Reactjs and Nodejs. My goal is to build a career around the infinite possibilities that web technologies offer us to improve people's lives. I love learning, self-taught with a huge growth mindset, try to write clean code with best practices as possible</h6>
+<h6  align="center">A Full Stack Developer based in Galicia (Spain), mainly oriented and passionate about MERN Stack technologies such as MongoDB, Express, Reactjs and Nodejs. My goal is to build a career around the infinite possibilities that web technologies offer us to improve people's lives. I love learning, self-taught with a huge growth mindset, try to write clean code with best practices as possible</h6>
 
 <h5 align="center">Currently I'm testing all the technologies I have learnt and working on individual projects</h5>
 
