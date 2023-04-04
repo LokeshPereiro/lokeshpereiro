@@ -2,7 +2,7 @@
 
 <h6  align="center">A Full Stack Developer based in Galicia (Spain), mainly oriented and passionate about MERN Stack technologies such as MongoDB, Express, Reactjs and Nodejs. My goal is to build a career around the infinite possibilities that web technologies offer us to improve people's lives. I love learning, self-taught with a huge growth mindset, try to write clean code with best practices as possible</h6>
 
-<h5 align="center">Currently I'm testing all the technologies I have learnt and working on individual projects</h5>
+<h5 align="center">Currently testing all the technologies I have learnt and working on individual projects</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshpereiro&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshpereiro" /> </p>
 
@@ -13,7 +13,7 @@
 
 
 
-- 🌱 I’m currently learning **MERN Stack Technologies, TypeScript, Nextjs**
+- 🌱 Willing to learn **TypeScript, Nextjs**
 
 - 👨‍💻 All of my projects are available at [ https://github.com/LokeshPereiro ] & [ https://github.com/lpdraft ]
 
