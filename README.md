@@ -12,7 +12,6 @@
 
 
 
-- 🔭 I’m currently working on **Portfolio-Miguel** (https://github.com/LokeshPereiro/Portfolio-Miguel)
 
 - 🌱 Willing to learn **TypeScript, Nextjs**
 
