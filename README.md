@@ -13,7 +13,7 @@
 
 
 
-- 🌱 Willing to learn **TypeScript, Nextjs, SOLID**
+- 🌱 Willing to learn **C#, Java**
 
 - 👨‍💻 All of my projects are available at [ https://github.com/LokeshPereiro ] & [ https://github.com/lpdraft ]
 
