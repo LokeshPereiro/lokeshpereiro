@@ -13,7 +13,7 @@
 
 
 
-- 🌱 Willing to learn **C#, Java**
+- 🌱 Willing to learn **Spring Boot & Sanity**
 
 - 👨‍💻 All of my projects are available at [ https://github.com/LokeshPereiro ] & [ https://github.com/lpdraft ]
 
