@@ -11,7 +11,7 @@
 
 - 🌱 Willing to learn **Spring Boot, Sanity & Nextjs**
 
-- 👨‍💻 All of my projects are available at [[ https://github.com/LokeshPereiro & https://github.com/lpdraft ]]([ https://github.com/LokeshPereiro & https://github.com/lpdraft ])
+- 👨‍💻 All of my projects are available at [[ https://github.com/LokeshPereiro & https://github.com/lpdraft ]]
 
 - 💬 Ask me about **JavaScript,React,Node,Express**
 
