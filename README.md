@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Specialising React**
 
-- 🌱 Willing to learn **Nextjs, TypeScript, Spring Boot & Sanity**
+- 🌱 Willing to learn **Java**
 
 - 👨‍💻 All of my projects are available at [[ https://github.com/LokeshPereiro & https://github.com/lpdraft ]]
 
