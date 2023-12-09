@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Specialising React, MERN Stack techs**
 
-- 🌱 Willing to learn **Typescript & Java**
+- 🌱 Willing to learn **TypeScript & Java**
 
 - 👨‍💻 All of my projects are available at [[ https://github.com/LokeshPereiro & https://github.com/lpdraft ]]
 
