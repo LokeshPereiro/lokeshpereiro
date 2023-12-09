@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **Specialising React, MERN Stack techs**
 
-- 🌱 Willing to learn **Java**
+- 🌱 Willing to learn **Typescript & Java**
 
 - 👨‍💻 All of my projects are available at [[ https://github.com/LokeshPereiro & https://github.com/lpdraft ]]
 
-- 💬 Ask me about **JavaScript,React,Node,Express**
+- 💬 Ask me about **JavaScript,SASS,React,Node,Express**
 
 - 📫 How to reach me **lokeshpereiromf@gmail.com**
 
