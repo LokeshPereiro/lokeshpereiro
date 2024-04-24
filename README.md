@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Lokesh Pereiro</h1>
-<h3 align="center">A Full Stack Developer based in Galicia (Spain), frontend passionate, mainly oriented and passionate about MERN Stack technologies such as MongoDB, Express, Reactjs and Nodejs. My goal is to build a career around the infinite possibilities that web technologies offer us to improve people's lives. I love learning and I'm a self-taught and freelancer with a huge growth mindset.</h3>
+<h3 align="center">A Full Stack Developer based in Galicia (Spain), frontend passionate, mainly oriented and passionate about MERN Stack technologies such as MongoDB, Express, Reactjs and Nodejs. My goal is to build a career around the infinite possibilities that web technologies offer us to improve people's lives.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshpereiro&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshpereiro" /> </p>
 
@@ -7,13 +7,9 @@
 <img src="https://cdn.dribbble.com/users/44708/screenshots/2694410/media/c662e0e5b5f930b3df5aabb73ab30c57.gif" style="height:270px; width:950px;"  />
 </p>
 
-- 🔭 I’m currently working on **Specialising React, TypeScript, MERN Stack Techs**
+- 🔭 I’m currently working on **Astro, TypeScript, Svelte**
 
-- 🌱 Willing to learn **Nextjs and Java**
-
-- 👨‍💻 All of my projects are available at [[ https://github.com/LokeshPereiro & https://github.com/lpdraft ]]
-
-- 💬 Ask me about **JavaScript,SASS,React,Node,Express**
+- 💬 Ask me about **JavaScript,React, Astro, Svelte**
 
 - 📫 How to reach me **lokeshpereiromf@gmail.com**
 
