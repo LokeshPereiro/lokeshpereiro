@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Astro, TypeScript, Svelte**
 
-- 💬 Ask me about **JavaScript,React, Astro, Svelte**
+- 💬 Ask me about **JavaScript, React, Astro, Svelte**
 
 - 📫 How to reach me **lokeshpereiromf@gmail.com**
 
