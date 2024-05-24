@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Lokesh Pereiro</h1>
-<h3 align="center">I'm a fullstack developer based in Galicia (Spain), Frontend passionate, mainly oriented to JavaScript technologies. My goal is to build a career around the infinite possibilities that web technologies offer us to improve people's lives.</h3>
+<h3 align="center">I'm a Frontend passionate, mainly oriented to JavaScript technologies. My goal is to build a career around the infinite possibilities that web technologies offer us to improve people's lives.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshpereiro&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshpereiro" /> </p>
 
